@@ -1,3 +1,5 @@
+//this code will publish event
+
 const int WAVE_PIN = D1;
 const int PAT_PIN = D2;
 
