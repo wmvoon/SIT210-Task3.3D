@@ -1,3 +1,6 @@
+//this code will receive event from photon board in DEAKIN LAB
+//the board i have will response to the event publish by the photon board 
+
 const int WAVE_PIN = D5;
 const int WAVE_BLINKS = 3;
 const int WAVE_TIME = 1000;
